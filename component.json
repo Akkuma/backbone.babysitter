@@ -32,6 +32,7 @@
   },
 
   "dependencies": {
-    "virtru-components/backbone": "*"
+    "virtru-components/backbone": "*",
+    "virtru-components/underscore": "*"
   }
 }
