@@ -32,6 +32,6 @@
   },
 
   "dependencies": {
-    "jashkenas/backbone": "*"
+    "virtru-components/backbone": "*"
   }
 }
