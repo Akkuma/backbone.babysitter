@@ -1,7 +1,7 @@
 {
   "name": "backbone.babysitter",
   "description": "Manage child views in a Backbone.View",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "dependencies": {
     "backbone": "git+ssh://git@github.com:virtru-components/backbone.git#1.1.5",
     "underscore": "git+ssh://git@github.com:virtru-components/underscore.git#1.4.5"
